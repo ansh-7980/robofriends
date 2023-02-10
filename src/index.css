@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(37,9,121,0.9222926719515931) 28%, rgba(0,212,255,1) 100%);}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@import url('https://fonts.googleapis.com/css2?family=Julee&display=swap');
+h1{
+  font-family: 'Julee',cursive;
+  font-size: 100px;
+  font-weight: 900;
+  margin-bottom: 15px;
+  color: rgb(130, 220, 220);
+}
+input{
+  font-family: 'Julee',cursive;
+  font-size: 30px;
+  font-weight:600 ;
+  margin-bottom: 17px;
+  
+}
+p{
+  font-family: 'Julee',cursive;
+  font-size: 30px;
+  font-weight: 600;
+  margin-bottom: 17px;
+}
+h2{
+  font-family: 'Julee',italic;
+}
